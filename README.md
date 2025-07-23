@@ -1,4 +1,4 @@
-# repositorio-prueba
+# Repositorio de prueba curso de Dalto
 Repositorio de prueba en GitHub
 
 ## Descripción 
